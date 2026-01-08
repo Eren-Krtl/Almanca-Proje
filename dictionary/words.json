@@ -1,0 +1,770 @@
+[
+  {
+    "art": "die",
+    "name": "Okul",
+    "translated_name": "Schule",
+    "description": "Eğitim ve öğretimin toplu olarak yapıldığı yer."
+  },
+  {
+    "art": "der",
+    "name": "Öğrenci",
+    "translated_name": "Schüler",
+    "description": "Öğrenim görmek amacıyla ders alan kimse."
+  },
+  {
+    "art": "der",
+    "name": "Öğretmen",
+    "translated_name": "Lehrer",
+    "description": "Bir bilim dalını, sanatı veya teknik bilgiyi öğretmeyi meslek edinen kimse."
+  },
+  {
+    "art": "die",
+    "name": "Sınıf",
+    "translated_name": "Klasse",
+    "description": "Okullarda, ders yılına veya öğrencilerin bilgi düzeyine göre ayrıldıkları bölümlerden her biri."
+  },
+  {
+    "art": "das",
+    "name": "Kitap",
+    "translated_name": "Buch",
+    "description": "Bir kenarından birleştirilerek dışına kapak geçirilmiş kâğıt yapraklar bütünü."
+  },
+  {
+    "art": "der",
+    "name": "Kalem",
+    "translated_name": "Stift",
+    "description": "Yazma, çizme vb. işlerde kullanılan çeşitli biçimlerdeki araç."
+  },
+  {
+    "art": "der",
+    "name": "Silgi",
+    "translated_name": "Radiergummi",
+    "description": "Kalemle yazılmış veya çizilmiş şeyleri silmeye yarayan nesne."
+  },
+  {
+    "art": "die",
+    "name": "Sıra",
+    "translated_name": "Schulbank",
+    "description": "Okullarda öğrencilerin üzerine yazı yazıp oturdukları mobilya."
+  },
+  {
+    "art": "die",
+    "name": "Tahta",
+    "translated_name": "Tafel",
+    "description": "Üzerine tebeşir veya özel kalemle yazı yazılan düz yüzey."
+  },
+  {
+    "art": "die",
+    "name": "Harita",
+    "translated_name": "Landkarte",
+    "description": "Yeryüzünün kuş bakışı görünümünün ölçekle küçültülerek çizilmiş örneği."
+  },
+  {
+    "art": "das",
+    "name": "Ülke",
+    "translated_name": "Land",
+    "description": "Bir devletin egemenliği altında bulunan toprakların tümü."
+  },
+  {
+    "art": "die",
+    "name": "Milliyet",
+    "translated_name": "Nationalität",
+    "description": "Bir kimsenin vatandaşlık bağı ile bağlı olduğu ulus."
+  },
+  {
+    "art": "die",
+    "name": "Dil",
+    "translated_name": "Sprache",
+    "description": "İnsanların anlaşmak için kullandığı kelimeler veya işaretler sistemi."
+  },
+  {
+    "art": "die",
+    "name": "Aile",
+    "translated_name": "Familie",
+    "description": "Anne, baba ve çocuklardan oluşan toplumun en küçük birimi."
+  },
+  {
+    "art": "die",
+    "name": "Anne",
+    "translated_name": "Mutter",
+    "description": "Çocuğu olan kadın."
+  },
+  {
+    "art": "der",
+    "name": "Baba",
+    "translated_name": "Vater",
+    "description": "Çocuğu olan erkek."
+  },
+  {
+    "art": "die",
+    "name": "Kız Kardeş",
+    "translated_name": "Schwester",
+    "description": "Birinin kız kardeşi."
+  },
+  {
+    "art": "der",
+    "name": "Erkek Kardeş",
+    "translated_name": "Bruder",
+    "description": "Birinin erkek kardeşi."
+  },
+  {
+    "art": "die",
+    "name": "Teyze / Hala",
+    "translated_name": "Tante",
+    "description": "Annenin veya babanın kız kardeşi."
+  },
+  {
+    "art": "der",
+    "name": "Amca / Dayı",
+    "translated_name": "Onkel",
+    "description": "Babanın veya annenin erkek kardeşi."
+  },
+  {
+    "art": "der",
+    "name": "Kuzen",
+    "translated_name": "Cousin",
+    "description": "Teyze, dayı, hala veya amcanın erkek çocuğu."
+  },
+  {
+    "art": "die",
+    "name": "Büyükanne",
+    "translated_name": "Großmutter",
+    "description": "Annenin veya babanın annesi."
+  },
+  {
+    "art": "der",
+    "name": "Büyükbaba",
+    "translated_name": "Großvater",
+    "description": "Babanın veya annenin babası."
+  },
+  {
+    "art": "der",
+    "name": "Arkadaş",
+    "translated_name": "Freund",
+    "description": "Birbirlerine karşı sevgi ve anlayış gösteren kimselerden her biri."
+  },
+  {
+    "art": "der",
+    "name": "Komşu",
+    "translated_name": "Nachbar",
+    "description": "Konutları yakın olan kimselerin birbirine göre aldıkları ad."
+  },
+  {
+    "art": "der",
+    "name": "Doktor",
+    "translated_name": "Arzt",
+    "description": "Hastalıkları teşhis ve tedavi eden kimse."
+  },
+  {
+    "art": "die",
+    "name": "Hemşire",
+    "translated_name": "Krankenschwester",
+    "description": "Doktor yardımcısı olarak çalışan sağlık personeli."
+  },
+  {
+    "art": "der",
+    "name": "Mühendis",
+    "translated_name": "Ingenieur",
+    "description": "Teknik ve sosyal alanlarda uzmanlaşmış, belli bir eğitim görmüş kimse."
+  },
+  {
+    "art": "der",
+    "name": "Mimar",
+    "translated_name": "Architekt",
+    "description": "Yapıların planını hazırlayan kimse."
+  },
+  {
+    "art": "der",
+    "name": "Polis",
+    "translated_name": "Polizist",
+    "description": "Şehirde kamu düzenini sağlayan görevli."
+  },
+  {
+    "art": "der",
+    "name": "Avukat",
+    "translated_name": "Anwalt",
+    "description": "Yasa işlerinde yol gösteren ve hak savunan kimse."
+  },
+  {
+    "art": "der",
+    "name": "Aşçı",
+    "translated_name": "Koch",
+    "description": "Yemek pişirmeyi meslek edinen kimse."
+  },
+  {
+    "art": "der",
+    "name": "Garson",
+    "translated_name": "Kellner",
+    "description": "Müşterilere hizmet eden kimse."
+  },
+  {
+    "art": "der",
+    "name": "Şoför",
+    "translated_name": "Fahrer",
+    "description": "Kara taşıtlarını kullanan kişi."
+  },
+  {
+    "art": "der",
+    "name": "Çiftçi",
+    "translated_name": "Bauer",
+    "description": "Geçimini toprağı ekerek sağlayan kimse."
+  },
+  {
+    "art": "der",
+    "name": "Terzi",
+    "translated_name": "Schneider",
+    "description": "Giysi biçip diken kimse."
+  },
+  {
+    "art": "die",
+    "name": "Kütüphane",
+    "translated_name": "Bibliothek",
+    "description": "Kitapların okumak veya ödünç almak için toplandığı yer."
+  },
+  {
+    "art": "das",
+    "name": "Hastane",
+    "translated_name": "Krankenhaus",
+    "description": "Hastaların tedavi edildikleri sağlık kurumu."
+  },
+  {
+    "art": "die",
+    "name": "Eczane",
+    "translated_name": "Apotheke",
+    "description": "İlaçların satıldığı yer."
+  },
+  {
+    "art": "das",
+    "name": "Postane",
+    "translated_name": "Postamt",
+    "description": "Posta işlemlerinin yapıldığı yer."
+  },
+  {
+    "art": "die",
+    "name": "Banka",
+    "translated_name": "Bank",
+    "description": "Para işlemlerinin yapıldığı kuruluş."
+  },
+  {
+    "art": "die",
+    "name": "Fırın",
+    "translated_name": "Bäckerei",
+    "description": "Ekmek ve hamur işlerinin pişirildiği yer."
+  },
+  {
+    "art": "der",
+    "name": "Market",
+    "translated_name": "Supermarkt",
+    "description": "Yiyecek ve ev gereksinimlerinin satıldığı büyük dükkân."
+  },
+  {
+    "art": "der",
+    "name": "Kasap",
+    "translated_name": "Metzger",
+    "description": "Et satan dükkân veya kimse."
+  },
+  {
+    "art": "das",
+    "name": "Kafe",
+    "translated_name": "Café",
+    "description": "Çay, kahve içilen yer."
+  },
+  {
+    "art": "das",
+    "name": "Restoran",
+    "translated_name": "Restaurant",
+    "description": "Yemek yenilen yer, lokanta."
+  },
+  {
+    "art": "das",
+    "name": "Sinema",
+    "translated_name": "Kino",
+    "description": "Film gösterilen salon."
+  },
+  {
+    "art": "das",
+    "name": "Tiyatro",
+    "translated_name": "Theater",
+    "description": "Oyunların oynandığı yapı."
+  },
+  {
+    "art": "das",
+    "name": "Müze",
+    "translated_name": "Museum",
+    "description": "Tarihi ve sanatsal eserlerin sergilendiği yer."
+  },
+  {
+    "art": "der",
+    "name": "Park",
+    "translated_name": "Park",
+    "description": "Halkın gezip hava alması için düzenlenmiş yeşil alan."
+  },
+  {
+    "art": "die",
+    "name": "Cami",
+    "translated_name": "Moschee",
+    "description": "Müslümanların ibadet ettikleri yapı."
+  },
+  {
+    "art": "der",
+    "name": "Havalimanı",
+    "translated_name": "Flughafen",
+    "description": "Uçakların kalkıp indiği alan."
+  },
+  {
+    "art": "die",
+    "name": "Otobüs Durağı",
+    "translated_name": "Bushaltestelle",
+    "description": "Otobüslerin yolcu almak için durduğu yer."
+  },
+  {
+    "art": "der",
+    "name": "İstasyon",
+    "translated_name": "Bahnhof",
+    "description": "Trenlerin durduğu yer."
+  },
+  {
+    "art": "die",
+    "name": "Şehir",
+    "translated_name": "Stadt",
+    "description": "Büyük yerleşim yeri, kent."
+  },
+  {
+    "art": "das",
+    "name": "Köy",
+    "translated_name": "Dorf",
+    "description": "Şehirden küçük, kırsal yerleşim yeri."
+  },
+  {
+    "art": "das",
+    "name": "Ev",
+    "translated_name": "Haus",
+    "description": "İnsanların içinde yaşadığı yapı."
+  },
+  {
+    "art": "das",
+    "name": "Oda",
+    "translated_name": "Zimmer",
+    "description": "Evin içindeki bölümlerden her biri."
+  },
+  {
+    "art": "die",
+    "name": "Mutfak",
+    "translated_name": "Küche",
+    "description": "Yemek pişirilen yer."
+  },
+  {
+    "art": "das",
+    "name": "Salon",
+    "translated_name": "Wohnzimmer",
+    "description": "Evin oturulan en geniş odası."
+  },
+  {
+    "art": "das",
+    "name": "Yatak Odası",
+    "translated_name": "Schlafzimmer",
+    "description": "Uyumak için kullanılan oda."
+  },
+  {
+    "art": "das",
+    "name": "Banyo",
+    "translated_name": "Badezimmer",
+    "description": "Yıkanmak için hazırlanmış yer."
+  },
+  {
+    "art": "der",
+    "name": "Bahçe",
+    "translated_name": "Garten",
+    "description": "Çiçek veya sebze yetiştirilen toprak parçası."
+  },
+  {
+    "art": "die",
+    "name": "Kapı",
+    "translated_name": "Tür",
+    "description": "Bir yere girip çıkarken geçilen levha."
+  },
+  {
+    "art": "das",
+    "name": "Pencere",
+    "translated_name": "Fenster",
+    "description": "Yapıları havalandırmak ve aydınlatmak için duvarlara bırakılan açıklık."
+  },
+  {
+    "art": "der",
+    "name": "Masa",
+    "translated_name": "Tisch",
+    "description": "Ayaklar üzerinde duran mobilya."
+  },
+  {
+    "art": "der",
+    "name": "Sandalye",
+    "translated_name": "Stuhl",
+    "description": "Tek kişilik oturma eşyası."
+  },
+  {
+    "art": "der",
+    "name": "Koltuk",
+    "translated_name": "Sessel",
+    "description": "Geniş ve yumuşak sandalye."
+  },
+  {
+    "art": "das",
+    "name": "Yatak",
+    "translated_name": "Bett",
+    "description": "Uyumak için üzerine yatılan eşya."
+  },
+  {
+    "art": "der",
+    "name": "Dolap",
+    "translated_name": "Schrank",
+    "description": "İçine eşya konulan mobilya."
+  },
+  {
+    "art": "der",
+    "name": "Halı",
+    "translated_name": "Teppich",
+    "description": "Yere serilen dokuma örtü."
+  },
+  {
+    "art": "die",
+    "name": "Lamba",
+    "translated_name": "Lampe",
+    "description": "Işık veren alet."
+  },
+  {
+    "art": "der",
+    "name": "Bilgisayar",
+    "translated_name": "Computer",
+    "description": "Verileri işleyen elektronik cihaz."
+  },
+  {
+    "art": "das",
+    "name": "Telefon",
+    "translated_name": "Telefon",
+    "description": "İletişim sağlayan cihaz."
+  },
+  {
+    "art": "die",
+    "name": "Saat",
+    "translated_name": "Uhr",
+    "description": "Zamanı ölçen alet."
+  },
+  {
+    "art": "der",
+    "name": "Pasaport",
+    "translated_name": "Reisepass",
+    "description": "Yurt dışına çıkış için gerekli kimlik belgesi."
+  },
+  {
+    "art": "das",
+    "name": "Bilet",
+    "translated_name": "Ticket",
+    "description": "Bir taşıta binmek için alınan belge."
+  },
+  {
+    "art": "der",
+    "name": "Bavul",
+    "translated_name": "Koffer",
+    "description": "Yolculuk çantası."
+  },
+  {
+    "art": "das",
+    "name": "Uçak",
+    "translated_name": "Flugzeug",
+    "description": "Havada uçan motorlu taşıt."
+  },
+  {
+    "art": "der",
+    "name": "Otobüs",
+    "translated_name": "Bus",
+    "description": "Çok sayıda yolcu taşıyan kara taşıtı."
+  },
+  {
+    "art": "das",
+    "name": "Taksi",
+    "translated_name": "Taxi",
+    "description": "Ücretle yolcu taşıyan otomobil."
+  },
+  {
+    "art": "die",
+    "name": "Cadde",
+    "translated_name": "Straße",
+    "description": "Şehir içindeki ana yol."
+  },
+  {
+    "art": "die",
+    "name": "Sokak",
+    "translated_name": "Gasse",
+    "description": "Caddeden daha dar yol."
+  },
+  {
+    "art": "die",
+    "name": "Köşe",
+    "translated_name": "Ecke",
+    "description": "İki yolun birleştiği yer."
+  },
+  {
+    "art": "der",
+    "name": "Sabah",
+    "translated_name": "Morgen",
+    "description": "Günün başlangıcı."
+  },
+  {
+    "art": "der",
+    "name": "Öğle",
+    "translated_name": "Mittag",
+    "description": "Günün ortası."
+  },
+  {
+    "art": "der",
+    "name": "Akşam",
+    "translated_name": "Abend",
+    "description": "Gündüzün bitip gecenin başladığı saatler."
+  },
+  {
+    "art": "die",
+    "name": "Gece",
+    "translated_name": "Nacht",
+    "description": "Güneş battıktan sonraki karanlık zaman."
+  },
+  {
+    "art": "der",
+    "name": "Nehir",
+    "translated_name": "Fluss",
+    "description": "Denize veya göle dökülen büyük akarsu."
+  },
+  {
+    "art": "der",
+    "name": "Göl",
+    "translated_name": "See",
+    "description": "Karalarla çevrili derin ve geniş su birikintisi."
+  },
+  {
+    "art": "das",
+    "name": "Deniz",
+    "translated_name": "Meer",
+    "description": "Yer kabuğunun çukur bölümlerini kaplayan tuzlu su kütlesi."
+  },
+  {
+    "art": "der",
+    "name": "Orman",
+    "translated_name": "Wald",
+    "description": "Ağaçlarla kaplı geniş alan."
+  },
+  {
+    "art": "der",
+    "name": "Ağaç",
+    "translated_name": "Baum",
+    "description": "Gövdesi odunsu, uzun ömürlü bitki."
+  },
+  {
+    "art": "die",
+    "name": "Çiçek",
+    "translated_name": "Blume",
+    "description": "Bitkilerin renkli ve kokulu üreme organı."
+  },
+  {
+    "art": "das",
+    "name": "Hayvan",
+    "translated_name": "Tier",
+    "description": "Duygu ve hareket yeteneği olan canlı varlık."
+  },
+  {
+    "art": "der",
+    "name": "Çöp",
+    "translated_name": "Müll",
+    "description": "Yararsız, pis veya zararlı olduğu için atılan şeyler."
+  },
+  {
+    "art": "die",
+    "name": "Doğa",
+    "translated_name": "Natur",
+    "description": "İnsan eliyle yapılmamış, kendiliğinden var olan canlı ve cansız nesneler bütünü."
+  },
+  {
+    "art": "die",
+    "name": "Hava",
+    "translated_name": "Luft",
+    "description": "Dünyayı saran gaz tabakası."
+  },
+  {
+    "art": "das",
+    "name": "Su",
+    "translated_name": "Wasser",
+    "description": "Canlıların yaşaması için hayati öneme sahip sıvı."
+  },
+  {
+    "art": "die",
+    "name": "Güneş",
+    "translated_name": "Sonne",
+    "description": "Dünyamızı ısıtan ve aydınlatan yıldız."
+  },
+  {
+    "art": "der",
+    "name": "Ay",
+    "translated_name": "Mond",
+    "description": "Dünyanın uydusu."
+  },
+  {
+    "art": "der",
+    "name": "Yıldız",
+    "translated_name": "Stern",
+    "description": "Gökyüzünde parlayan gök cismi."
+  },
+  {
+    "art": "die",
+    "name": "Dünya",
+    "translated_name": "Erde",
+    "description": "Üzerinde yaşadığımız gezegen."
+  },
+  {
+    "art": "die",
+    "name": "Matematik",
+    "translated_name": "Mathematik",
+    "description": "Sayılar, şekiller ve bunlar arasındaki ilişkileri inceleyen ders."
+  },
+  {
+    "art": "die",
+    "name": "Fizik",
+    "translated_name": "Physik",
+    "description": "Madde ve enerji arasındaki etkileşimi inceleyen ders."
+  },
+  {
+    "art": "die",
+    "name": "Kimya",
+    "translated_name": "Chemie",
+    "description": "Maddelerin yapısını ve özelliklerini inceleyen ders."
+  },
+  {
+    "art": "die",
+    "name": "Biyoloji",
+    "translated_name": "Biologie",
+    "description": "Canlıları inceleyen bilim dalı ve ders."
+  },
+  {
+    "art": "die",
+    "name": "Tarih",
+    "translated_name": "Geschichte",
+    "description": "Geçmişteki olayları inceleyen ders."
+  },
+  {
+    "art": "die",
+    "name": "Coğrafya",
+    "translated_name": "Erdkunde",
+    "description": "Yeryüzünü, iklimleri ve yer şekillerini inceleyen ders."
+  },
+  {
+    "art": "die",
+    "name": "Resim / Sanat",
+    "translated_name": "Kunst",
+    "description": "Sanatsal yeteneklerin geliştirildiği ders."
+  },
+  {
+    "art": "die",
+    "name": "Müzik",
+    "translated_name": "Musik",
+    "description": "Sesleri ve ritimleri içeren sanat dalı ve dersi."
+  },
+  {
+    "art": "der",
+    "name": "Beden Eğitimi",
+    "translated_name": "Sport",
+    "description": "Fiziksel aktivitelerin yapıldığı ders."
+  },
+  {
+    "art": "das",
+    "name": "İngilizce",
+    "translated_name": "Englisch",
+    "description": "İngiliz dili ve edebiyatı dersi."
+  },
+  {
+    "art": "das",
+    "name": "Almanca",
+    "translated_name": "Deutsch",
+    "description": "Alman dili ve edebiyatı dersi."
+  },
+  {
+    "art": "die",
+    "name": "Bilişim",
+    "translated_name": "Informatik",
+    "description": "Bilgisayar ve bilgi işlem konularını içeren ders."
+  },
+  {
+    "art": "die",
+    "name": "Din Kültürü",
+    "translated_name": "Religion",
+    "description": "Dini bilgilerin öğretildiği ders."
+  },
+  {
+    "art": "der",
+    "name": "Pazartesi",
+    "translated_name": "Montag",
+    "description": "Haftanın birinci günü."
+  },
+  {
+    "art": "der",
+    "name": "Salı",
+    "translated_name": "Dienstag",
+    "description": "Haftanın ikinci günü."
+  },
+  {
+    "art": "der",
+    "name": "Çarşamba",
+    "translated_name": "Mittwoch",
+    "description": "Haftanın üçüncü günü."
+  },
+  {
+    "art": "der",
+    "name": "Perşembe",
+    "translated_name": "Donnerstag",
+    "description": "Haftanın dördüncü günü."
+  },
+  {
+    "art": "der",
+    "name": "Cuma",
+    "translated_name": "Freitag",
+    "description": "Haftanın beşinci günü."
+  },
+  {
+    "art": "der",
+    "name": "Cumartesi",
+    "translated_name": "Samstag",
+    "description": "Haftanın altıncı günü, hafta sonu başlangıcı."
+  },
+  {
+    "art": "der",
+    "name": "Pazar",
+    "translated_name": "Sonntag",
+    "description": "Haftanın yedinci ve son günü."
+  },
+  {
+    "art": "die",
+    "name": "Teneffüs",
+    "translated_name": "Pause",
+    "description": "Dersler arasında verilen dinlenme zamanı."
+  },
+  {
+    "art": "der",
+    "name": "Ders Programı",
+    "translated_name": "Stundenplan",
+    "description": "Derslerin günlere ve saatlere göre dağılımını gösteren çizelge."
+  },
+  {
+    "art": "die",
+    "name": "Sınav",
+    "translated_name": "Prüfung",
+    "description": "Bilgi derecesini ölçmek için yapılan yoklama."
+  },
+  {
+    "art": "die",
+    "name": "Ödev",
+    "translated_name": "Hausaufgabe",
+    "description": "Öğretmenin öğrencilere ders dışı yapmaları için verdiği çalışma."
+  },
+  {
+    "art": "die",
+    "name": "Not",
+    "translated_name": "Note",
+    "description": "Öğrencinin başarısını değerlendiren sayı veya işaret."
+  }
+]
